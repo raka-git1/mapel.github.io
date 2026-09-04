@@ -27,14 +27,10 @@ mysqli_stmt_bind_param(
 );
 
 if (mysqli_stmt_execute($stmt)) {
-
     header("Location: list-mapel.php");
     exit;
-
-} else {
-
-    die("Gagal menyimpan data: " . mysqli_stmt_error($stmt));
-
 }
+
+die("Gagal menyimpan data: " . mysqli_stmt_error($stmt));
 
 ?>

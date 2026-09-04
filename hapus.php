@@ -4,7 +4,7 @@ include("config.php");
 
 $id = $_GET['id'];
 
-$sql = "DELETE FROM mata_pelajaran WHERE id = ?";
+$sql = "DELETE FROM calon_siswa WHERE id = ?";
 $stmt = mysqli_prepare($db, $sql);
 
 if (!$stmt) {
@@ -14,7 +14,7 @@ if (!$stmt) {
 mysqli_stmt_bind_param($stmt, "i", $id);
 
 if (mysqli_stmt_execute($stmt)) {
-    header("Location: list-mapel.php");
+    header("Location: list-siswa.php");
     exit;
 }
 

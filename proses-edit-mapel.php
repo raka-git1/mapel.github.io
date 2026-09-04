@@ -32,14 +32,10 @@ mysqli_stmt_bind_param(
 );
 
 if (mysqli_stmt_execute($stmt)) {
-
     header("Location: list-mapel.php");
     exit;
-
-} else {
-
-    die("Gagal mengubah data: " . mysqli_stmt_error($stmt));
-
 }
+
+die("Gagal mengubah data: " . mysqli_stmt_error($stmt));
 
 ?>
