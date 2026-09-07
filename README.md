@@ -31,6 +31,6 @@ Letakkan project di folder:
 C:\laragon\www\mapel.github.io
 Jalankan Apache dan MySQL melalui Laragon, buat database pendaftaran_siswa, lalu buka:
 http://localhost/mapel.github.io/
-Kesimpulan
 
-Project ini digunakan untuk mengelola data siswa dan mata pelajaran dengan PHP, MySQL, dan Laragon
+SCRIPT CAST:
+https://drive.google.com/file/d/1c6SF-9FkVtnqHN0iSuquIRwXZRzKSCYP/view?usp=drivesdk
