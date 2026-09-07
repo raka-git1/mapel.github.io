@@ -36,4 +36,6 @@ SCRIPT CAST:
 https://drive.google.com/file/d/1c6SF-9FkVtnqHN0iSuquIRwXZRzKSCYP/view?usp=drivesdk
 
 ![Screenshot](https://github.com/raka-git1/mapel.github.io/blob/main/Screenshot%202026-09-07%20151233.png?raw=true)
+![Screenshot 1](https://github.com/raka-git1/mapel.github.io/blob/main/Screenshot%202026-09-07%20151252.png?raw=true)
 
+![Screenshot 2](https://github.com/raka-git1/mapel.github.io/blob/main/Screenshot%202026-09-07%20151306.png?raw=true)
