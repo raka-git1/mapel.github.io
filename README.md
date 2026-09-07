@@ -35,7 +35,24 @@ http://localhost/mapel.github.io/
 SCRIPT CAST:
 https://drive.google.com/file/d/1c6SF-9FkVtnqHN0iSuquIRwXZRzKSCYP/view?usp=drivesdk
 
-![Screenshot](https://github.com/raka-git1/mapel.github.io/blob/main/Screenshot%202026-09-07%20151233.png?raw=true)
-![Screenshot 1](https://github.com/raka-git1/mapel.github.io/blob/main/Screenshot%202026-09-07%20151252.png?raw=true)
+<table>
+<tr>
+<td align="center">
+<img src="https://github.com/raka-git1/mapel.github.io/raw/main/Screenshot%202026-09-07%20151233.png" width="250">
+<br>
+FORM SISWA
+</td>
 
-![Screenshot 2](https://github.com/raka-git1/mapel.github.io/blob/main/Screenshot%202026-09-07%20151306.png?raw=true)
+<td align="center">
+<img src="https://github.com/raka-git1/mapel.github.io/raw/main/Screenshot%202026-09-07%20151252.png" width="250">
+<br>
+DAFTAR SISWA
+</td>
+
+<td align="center">
+<img src="https://github.com/raka-git1/mapel.github.io/raw/main/Screenshot%202026-09-07%20151306.png" width="250">
+<br>
+EDIT SISWA
+</td>
+</tr>
+</table>
