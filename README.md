@@ -56,3 +56,9 @@ EDIT SISWA
 </td>
 </tr>
 </table>
+
+<p>
+  <img src="https://raw.githubusercontent.com/raka-git1/mapel.github.io/1ef9879e01f4a28e99864fb74cd6d5dfce2031fb/Screenshot%202026-09-07%20154309.png" width="30%">
+  <img src="https://raw.githubusercontent.com/raka-git1/mapel.github.io/1ef9879e01f4a28e99864fb74cd6d5dfce2031fb/Screenshot%202026-09-07%20154326.png" width="30%">
+  <img src="https://raw.githubusercontent.com/raka-git1/mapel.github.io/1ef9879e01f4a28e99864fb74cd6d5dfce2031fb/Screenshot%202026-09-07%20154345.png" width="30%">
+</p>
